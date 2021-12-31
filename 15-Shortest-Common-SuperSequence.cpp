@@ -15,7 +15,6 @@ int LCS(string x, string y, int n, int m)
             if (x[i] == y[j])
                 dp[i][j] = 1 + dp[i - 1][j - 1];
             else
-                dp[i][j] = 0;
                 dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
         }
 
