@@ -30,7 +30,7 @@ int main()
     reverse(y.begin(), y.end());
 
     int length = lcs(x, y, x.length(), y.length());
-    cout << "The length of the palindrome subsequence is " << length << endl;
+    cout << "The Minimum number of deletion in the string to make it a palindrome : " << x.length() - length << endl;
 
     return 0;
 }
