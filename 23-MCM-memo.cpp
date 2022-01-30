@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int matrixChainMultiplication(vector<int> const &dims, int i, int j, auto &lookup)
+int matrixChainMultiplication(vector<int> const &dims, int i, int j, vector<vector<int>> &lookup)
 {
     if (j <= i + 1)
         return 0;
