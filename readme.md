@@ -1,11 +1,7 @@
 [![Amit Kumar Sahoo's GitHub Banner](./images/code_ninja.png)](https://github.com/AmitSahoo45)
-<h1 align="center">
-Repository for Dynamic Programming Questions and it's Code.
-</h1>
+<h1 align="center">Repository for Dynamic Programming Questions and it's Code.</h1>
 
-<h2>
-Questions included in this:- 
-<h2>
+<h2>Questions included in this:- <h2>
 
 1. Knapsack Recursive
 2. Knapsack Memoization
@@ -30,3 +26,8 @@ Questions included in this:-
 21. Sequence Pattern Matching
 22. Minimum number of insertion in a string to make it a Palindrome
 23. Matrix Chain Multiplication - Recursive & Memoization
+24. Palindrome Partitioning
+25. Evaluate Boolean Expression to True - Recursive
+26. Evaluate Boolean Expression to True - Memoization
+27. Scramvled String - Memoization
+28. Egg Drop Problem - Memoization
